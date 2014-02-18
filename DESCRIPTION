@@ -1,0 +1,11 @@
+Package: RCade
+Type: Package
+Title: R-based Census Aggregate Data Extraction
+Version: 2.0
+Date: 2013-07-15
+Author: Yiming Li
+Maintainer: Yiming Li <sgyli10@student.liverpool.ac.uk>
+Description: This is a usable data extraction utility for
+             2011 census tables.
+LazyData: yes
+License: GPL-3

@@ -1,0 +1,6 @@
+Hierarchies  Lookup_table	Lookup_code
+1	country	CTRY11NM	CTRY11CD
+2	region	RGN11NM	RGN11CD
+3	county	FCTY11NM	FCTY11CD
+4	district	LAD11NM	LAD11CD
+5	ward	WD11NM	WD11CD
